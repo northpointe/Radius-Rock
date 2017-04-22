@@ -1,0 +1,24 @@
+{
+  "name": "RadiusRock",
+  "version": "1.0.0",
+  "description": "A RADIUS server for Rock RMS",
+  "main": "index.js",
+  "dependencies": {
+    "radius": "^1.1.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/northpointe/radius-rock.git"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Garrett Johnson <hi@garrett.io>",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/northpointe/radius-rock/issues"
+  },
+  "homepage": "https://github.com/northpointe/radius-rock#readme"
+}
