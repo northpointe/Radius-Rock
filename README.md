@@ -14,7 +14,7 @@ Tested With:
 RadiusRock requires node.js v0.8.0. To set up the project, first download it with Git:
 
 ```bash
-git clone https://github.com/northpointe/radiusrock projectname
+git clone https://github.com/northpointe/Radius-Rock projectname
 ```
 
 Then open the folder in your command line, and install the needed dependencies:
